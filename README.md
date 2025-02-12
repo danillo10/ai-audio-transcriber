@@ -16,7 +16,6 @@ Ele permite o **upload de arquivos de áudio (incluindo áudios do WhatsApp)** e
 ✅ Upload de arquivos `.mp3`, `.wav`, `.ogg` e `.opus`  
 ✅ Suporte a **áudios do WhatsApp** (conversão automática)  
 ✅ Transcrição usando **OpenAI Whisper**  
-✅ Interface moderna inspirada nos designs da **Rocketseat**  
 ✅ **Barra de rolagem lateral** para transcrições longas  
 
 ---
@@ -42,6 +41,6 @@ pip install -r requirements.txt
 ### **Executar a aplicação**
 ```
 python app.py
-``´
+```
 
 
