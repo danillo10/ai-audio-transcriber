@@ -8,7 +8,7 @@ Ele permite o **upload de arquivos de áudio (incluindo áudios do WhatsApp)** e
 ---
 
 ## 🚀 **Demonstração da Interface**
-<img src="https://ibb.co/ZRzXDS0Y" alt="Demonstração da Interface" width="700px">
+<img src="https://www.c9tecnologia.com.br/ai-audio-transcriber.png" alt="Demonstração da Interface" width="700px">
 
 ---
 
